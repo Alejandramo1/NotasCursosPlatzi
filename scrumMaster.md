@@ -26,7 +26,6 @@ El scrum master tiene distintos roles:
 
 > Un Scrum Master es un líder al servicio del Scrum Team. No es policía, dictador, jefe, ni repartidor de trabajo.
 
-![image](https://user-images.githubusercontent.com/105448434/235798345-1ea5f41d-6411-4ca9-b0fa-c6c7dcc08b92.png)
 
 ## Fuentes de información
 
