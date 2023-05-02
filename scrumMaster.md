@@ -32,3 +32,9 @@ El scrum master tiene distintos roles:
 - [Curso Platzi](https://platzi.com/cursos/scrum-master/)
 - [Download the official Scrum Guide](https://scrumguides.org/download.html)
 - [¿QUÉ HACE UN SCRUM MASTER?](https://andressalcedo.com/blog/scrum-master/)
+
+# SCRUM desde perspectiva del Scrum Master| Platzi
+
+![image](https://user-images.githubusercontent.com/105448434/235802063-eeb9bf1f-f314-419b-977d-64741651b742.png)
+
+
