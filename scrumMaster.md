@@ -12,6 +12,8 @@ Desarrolla los conocimientos y habilidades necesarias para liderar la adopción 
 
 El Scrum Master es responsable de aplicar este marco de trabajo como se define en la Guía de Scrum. Lo hace ayudando a todos a comprender tanto la teoría y la práctica dentro del Scrum Team como de la organización.
 
+SCRUM es un Marco de trabajo lo que se define como un compendio de buenas practicas para la gestión de proyectos, no debe ser llamado metodologia ya que no es una serie de pasos definido.
+
 El scrum master tiene distintos roles:
 
 - **Facilitador**   No es quine agenda reuniones, es quien asiste en conversaciones a los integrantes para que se tengan conversaciones efectivas y produtivas. El facilitador busca herramientas para lograr una comunicación eficiente en pro de lograr el desarrollo del producto.
@@ -36,5 +38,43 @@ El scrum master tiene distintos roles:
 # SCRUM desde perspectiva del Scrum Master| Platzi
 
 ![image](https://user-images.githubusercontent.com/105448434/235802063-eeb9bf1f-f314-419b-977d-64741651b742.png)
+
+
+PDI---->Incrementos del Product Backlog 
+
+-**Definition of DONE**. 
+Conjunto de acuerdos en el cual se determina que las historias en el scrum realmente estan terminados y exista incremento del producto.
+
+-**Product Backlog**
+Es cambiante, es el artefacto que contiene todos los elementos a construir para generar el objetivo del producto.
+
+
+**MODELO PREDICTIVO DE CONTROL**
+
+Se utilizan en objetivos de baja incertidumbre, se tiene muchisima claridad del objetivo y de los requerimientos.
+
+
+**MODELO PREDICTIVO DE CONTROL**
+
+Se utilizan en objetivos de baja incertidumbre, se tiene muchisima claridad del objetivo y de los requerimientos.
+
+**MODELO ADAPTATIVO DE CONTROL (MAC)**
+
+Se utilizan en objetivos de baja incertidumbre, se tiene muchisima claridad del objetivo y de los requerimientos.
+Aqui si se puede hacer gestión de riesgos de manera efectiva
+
+**MODELO ADAPTATIVO CONTROL**
+
+No se tiene total claridad de la solución del problema, a través de la mejora continua y la retrospección del cliente. Es valido pilotear para ir adaptando el camino.
+
+Funciona en tres pilares
+- Transperencia: En dos artefactos generan transparencia: Product Backlog y Increment: Ya que brinda que hicimos durante el Sprint.
+- Inspección: Evento relacionados Sprint Review
+- Adaptación: Adecuación Sprint planning se tiene en cuenta la retroalimentación del producto para mejorar en el siguiente sprint en la fase de sprint plaaning.
+
+![image](https://user-images.githubusercontent.com/105448434/235809107-a12295fe-e752-4881-a09a-e04cd810b774.png)
+
+
+
 
 
