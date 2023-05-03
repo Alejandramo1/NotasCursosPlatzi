@@ -122,8 +122,27 @@ Navegar la incertidumbre para cambiar la cultura.
 
 # Facilitación de Sprint Planning| Platzi
 
+Adapatar el producto de acuerdo a la retroalimentación realizada y ajustar un buen Sprint Planning:
 
+**Estructura de una buena Sprint Planning**
+
+1. Actividad de Check-in: Son actividades de rompe hielo para asegurar la productividad del equipo.
+
+2. Acordar el objetivo del Sprint: El product Owner enseña oportunidades disponibles pra general valor y se plantea un objetivo del sprint que puede ser colaborativo con los demas miembros del equipo. Según el objetivo del Sprint e escogen los elementos del Backlog a desarrollar.
+
+3. Presentación de prioridades: El PO debe estar constantemente refinando el Backlog 
+
+4. Definir compromisos del SPRINT: Generalmente lo realizan los Devs para poder establecer que elementos del product backlog. El criterio es de lo más valor a menos valor.
+
+5. Refinar prioridades y estimar: Ojala se haga en los espacios de refinamiento del backlog, para que esten claros en el Sprint Planning. Lo ideal es no refinar en el sprint plannin.
+
+6.Conversación estratégica: Aqui es donde el equipo se organiza para dividir el trabajo.
+
+7. Feedback y cierre. Que podemos hacer mejor para ser mas eficiente en el sprint planning.
+
+**Facilitadores en el Daily Scrum**
   
+![image](https://user-images.githubusercontent.com/105448434/235985564-05ea6b5a-09a9-4b99-8a37-dbd565835e74.png)
 
 
 
