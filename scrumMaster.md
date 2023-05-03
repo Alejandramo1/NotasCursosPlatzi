@@ -144,6 +144,65 @@ Adapatar el producto de acuerdo a la retroalimentación realizada y ajustar un b
   
 ![image](https://user-images.githubusercontent.com/105448434/235985564-05ea6b5a-09a9-4b99-8a37-dbd565835e74.png)
 
+**Facilitadores en el Sprint Review**
+
+![image](https://user-images.githubusercontent.com/105448434/236027186-7ebb28e2-1a32-477e-a2fa-42e8613026fd.png)
 
 
+1. Actividad de chek-in
+2. Presentar objetivos y compromisos como insumo a el contexto del sprint actual 
+3. Presentación de los compromisos del sprint. Se inspecciona el incremento del producto 
+4. Demostración del increment
+NO DEBE ENFOCARSE EN INDICADORES DE RENDIMIENTO DEL EQUIPO 
+5. Feedback del incremento ( Pendientes a su lenguaje no verbal)
+6. Discusión sobre nuevas iniciativas
+7. Feedback y cierra.
 
+**Facilitadores en el Sprint Retrospective**
+
+1. Preparar el escenario
+Generar espacios de romper el hielo para que los asistentes lleguen con energia y aporten a la comunicación 
+
+2. Recolectar datos:
+Analizar en conjunto con el equipo, situaciones presentadas organizadas desde la más prioritaria que puedan ser oportunidaddes de mejora.
+
+3. Indagación: Encontrar y entender la causa raiz, de las situaciones problematicas encontradas.
+
+4. Decidir qué hacer: Una vez identificada la causa raiz, establecer el plan de acción. Priorizarlas a establecer los accionables requeridos.
+
+5. Cerrar la retrospectiva, con una restrospectiva de la retrospectiva.
+
+Metaforas visuales, para plantillas en futuras retrospectivas. Como metaforas. Puedo encontras estas plantillas en la plataforma MIRO.
+
+The Visual Collaboration Platform for Every Team | Miro
+
+https://miro.com/
+
+**MODELO ADAPTATIVO DE CONTROL (PRODUCTO)**
+
+-- PRODUCT BACKLOG: Componente de transparencia debe estar accesible y entendible para todos. Si no funcionan son antipratrones
+-- Increment: Es visible para todos?
+-- Sprint Review: Esta aportando a la inspeccion? Se adpatara el sprint planning? 
+-- Si no hay adaptación no hay necesidad de trabajar con Scrum
+-- Transparencia en el sprint backlog y en el definition of done (DFD)
+-- El sprint retrospective debe existir inspección y adapatación que le permita mejorar al equipo. Debe haber mejora entre sprint
+
+![image](https://user-images.githubusercontent.com/105448434/236046914-40e647ca-6a84-4ac5-9ed6-9f9d29714fce.png)
+
+**MODELO ADAPTATIVO DE CONTROL (PROCESO)**
+
+-- El daily scrum es una medida de progreso puede existir un elemnto como tranparencia, inspección y adaptación.
+
+**El Product Owner, vela por la entrega de la mayor cantidad de VALOR al cliente en el menor tiempo posible, MIENTRAS que el SCRUM MASTER, busca el mayor rendimiento del equipo**
+
+LOS SPRINTS DEBEN TENER LA MISMA DURACION. DEBE SER PERIODICIDAD FIJA 
+El tamaño del sprint es inversamente proporcional a la volatibilidad del entorno
+
+
+Es una buena práctica que los equipos Scrum estimen sobre un 80% de su capacidad real, para dedicar el 20% restante a soporte, mejoras, y actividades como el refinamiento. De esta forma, refinar no implica comprometer el objetivo del sprint. 
+
+
+**Priorización del Backlog**
+Existe una técnica que se llama ICE Score (Impact, Confidence, Ease), donde cada item del backlog se califica del 1 al 10 para cada una de estas variables. Impact es el impacto a nivel de negocio (10 es el puntaje máximo), Confidence es el nivel de certeza que tenemos en esta estimación, Ease es la facilidad de implementarlo.
+
+ICE Score = Impact x Confidence x Ease
