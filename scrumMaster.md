@@ -69,6 +69,12 @@ Funciona en tres pilares
 
 ![image](https://user-images.githubusercontent.com/105448434/235809107-a12295fe-e752-4881-a09a-e04cd810b774.png)
 
+**MODELO ADAPTATIVO CONTROL (MAC EN PROCESO)**
+Sprint backlog 
+Sprint Retrospective
+Definition of Done
+![image](https://user-images.githubusercontent.com/105448434/236057283-95b0be15-f3f5-4dd7-9e54-067e48c54f2c.png)
+
 **MODELO ADAPTATIVO CONTROL (MAC EN PROGRESO)**
 
 A continuación se presentan MAC a lo largo del sprint, se presentan los artefactos que se utilizan para poder controlar la incertidumbre en la duración del sprint. 
