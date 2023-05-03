@@ -206,3 +206,6 @@ Es una buena práctica que los equipos Scrum estimen sobre un 80% de su capacida
 Existe una técnica que se llama ICE Score (Impact, Confidence, Ease), donde cada item del backlog se califica del 1 al 10 para cada una de estas variables. Impact es el impacto a nivel de negocio (10 es el puntaje máximo), Confidence es el nivel de certeza que tenemos en esta estimación, Ease es la facilidad de implementarlo.
 
 ICE Score = Impact x Confidence x Ease
+
+![image](https://user-images.githubusercontent.com/105448434/236055092-ee936648-1b82-412a-b6bc-8c2754e40f00.png)
+
