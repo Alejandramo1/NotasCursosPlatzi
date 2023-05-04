@@ -6,4 +6,4 @@ Si ves algún punto de mejora o encontraste un error no dudes en hacer tu aporte
 
 ## - [Curso de Scrum Master | Platzi](/scrumMaster.md)
 
-## - [Curso de Project Management con Pmbok| Platzi](/CursoProjectManagmentPmbok.md)
+## - [Curso de Tecnicas de negociación| Platzi](/CursoTecnicasNegociacion.md)
