@@ -267,6 +267,51 @@ Siempre utilizar frases que resalten lo positivo. Que las frases no den connotac
 
 ![image](https://user-images.githubusercontent.com/105448434/236531520-9cfbc36c-9b76-4547-a209-c1ac66f800cf.png)
 
+**LAS NEGOCIACIONES NO SON LINEALES**
+
+![image](https://user-images.githubusercontent.com/105448434/236532325-f373e524-3198-4009-b66e-567baa138615.png)
+
+## LENGUAJE CORPORAL 
+
+1.Atuendo/apariencia: La primera impresion no miente
+
+2.Proximidad: Distancia mas de 50 cm para negociar.
+
+3.Manos: El uso de las manos puede servir para ilustrar, ojo con las manos inquietas o nerviosas.
+
+4.Postura: Tener posturas relajadas
+
+5.Cara: Siempre buscar reacciones en el otro quitar el poker face
+
+7.Contacto visual
+
+8.Voz: El tono de voz, puede utilizarse para enfatizar eventos. No hablar demasiado rapido.
+
+** ES IMPORTANTE TENER**
+
+1. Empatia
+
+2. Tolerancia a la frustación
+
+3. Honestidad.
+
+4. Confianza. 
+
+5. Flexibilidad.
+
+
+Se centra en intereses y metas, como podemos cuidar los intereses y utilizar ganar ganar
+
+Un buen negociador siempre esta listo para las demás negociaciones
+
+6. Reconoce los obstaculos
+
+7. Reconoce el valor de las relaciones
+
+¿Debo usar rangos? Es mejor no dar rangos, cuando no hay una zona de negociación clara podria hacerse rangos.
+
+
+
 
 
 
