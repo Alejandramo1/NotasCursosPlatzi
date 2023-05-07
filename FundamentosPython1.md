@@ -111,6 +111,47 @@ el contenido de la línea errónea; nota: la ventana del editor de IDLE no muest
 
 el nombre del error y una breve explicación.
 
+## Funcion Print
+** Funciones en Python **
+
+Caracteres de escape y nueva línea en Python:
+
+***La barra invertida (\) tiene un significado muy especial cuando se usa dentro de cadenas - se llama carácter de escape.***
+
+Tanto la barra invertida como n forman un símbolo especial llamado un carácter de nuevalínea, que insta a la consola a iniciar una nuevalínea de salida.
+
+** Argumentos de palabra clave**
+
+1. END: Determina el final del primer argumento y enseguida llama el siguiente argumento.
+
+![image](https://user-images.githubusercontent.com/105448434/236648743-a7d24eff-a11f-4c07-a09f-5ddf34b0dbe3.png)
+
+2. SEP: Separa los argumentos con caracteres designados.
+
+![image](https://user-images.githubusercontent.com/105448434/236649431-023a35e6-4a42-4c07-ba8e-819fc79674ee.png)
+
+## Tipos de datos en Python
+
+**1. Datos enteros**
+
+**Números octales.**
+
+Para convertir numeros octales se utiliza la siguiente conversion
+print(0x123) el prefijo 0x
+
+**Número hexadecimales**
+
+Se utiliza el prefio 0x.
+print(0x123)
+
+***A continuación presento un ejemplo de como se calculan estos numeros matematicamente**
+
+![image](https://user-images.githubusercontent.com/105448434/236647822-7c1dd451-366e-4059-af9c-13eb4ea92a5a.png)
+
+**2. Datos flotantes**
+
+Son números que tienen (o pueden tener) una parte fraccionaria después del punto decimal, y aunque esta definición es muy pobre, es suficiente para lo que se desea discutir.
+
 
 
 
