@@ -137,7 +137,7 @@ Tanto la barra invertida como n forman un símbolo especial llamado un carácter
 **Números octales.**
 
 Para convertir numeros octales se utiliza la siguiente conversion
-print(0x123) el prefijo 0x
+print(0o123) el prefijo 0o
 
 **Número hexadecimales**
 
