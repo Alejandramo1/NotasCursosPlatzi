@@ -152,6 +152,121 @@ print(0x123)
 
 Son números que tienen (o pueden tener) una parte fraccionaria después del punto decimal, y aunque esta definición es muy pobre, es suficiente para lo que se desea discutir.
 
+**3. Cadenas**
+
+Texto 
+
+** 4. Valores Booleanos**
+
+Se aplica para verificar true(1) o false(0)
+
+No son tan obvios como los anteriores y se emplean para representar un valor muy abstracto - la veracidad.
+
+## RESUMEN SECCIÓN TIPO DE DATO 
+
+1. Los literales son notaciones para representar valores fijos en el código. Python tiene varios tipos de literales - es decir, un literal puede ser un número por ejemplo, 123), o una cadena (por ejemplo, "Yo soy un literal.").
+
+2. El sistema binario es un sistema numérico que emplea 2 como su base. Por lo tanto, un número binario está compuesto por 0s y 1s únicamente, por ejemplo, 1010 es 10 en decimal.
+
+Los sistemas de numeración Octales y Hexadecimales son similares pues emplean 8 y 16 como sus bases respectivamente. El sistema hexadecimal utiliza los números decimales más seis letras adicionales.
+
+3. Los enteros (o simplemente int) son uno de los tipos numéricos que soporta Python. Son números que no tienen una parte fraccionaria, por ejemplo, 256, o -1 (enteros negativos).
+
+4. Los números punto-flotante (o simplemente flotantes) son otro tipo numérico que soporta Python. Son números que contienen (o son capaces de contener) una parte fraccionaria, por ejemplo, 1.27.
+
+5. Para codificar un apóstrofe o una comilla dentro de una cadena se puede utilizar el carácter de escape, por ejemplo, 'I\'m happy.', o abrir y cerrar la cadena utilizando un conjunto de símbolos distintos al símbolo que se desea codificar, por ejemplo, "I'm happy." para codificar un apóstrofe, y 'El dijo "Python", no "typhoon"' para codificar comillas.
+
+6. Los valores booleanos son dos objetos constantes True y False empleados para representar valores de verdad (en contextos numéricos 1 es True, mientras que 0 es False.
+
+
+  Extra  
+
+Existe un literal especial más utilizado en Python: el literal None. Este literal es llamado un objeto de NoneType, y puede ser utilizado para representar la ausencia de un valor. Pronto se hablará más acerca de ello.
+
+## Operadores básicos.
+
+Residuo (módulo)
+El siguiente operador es uno muy peculiar, porque no tiene un equivalente dentro de los operadores aritméticos tradicionales.
+
+Su representación gráfica en Python es el símbolo de % (porcentaje), lo cual puede ser un poco confuso.
+
+EXPONENTE ** UTILIZA ENLAZADO DE LADO DERECHO 
+
+![image](https://user-images.githubusercontent.com/105448434/236657435-bd4d6de8-42f6-43a9-b4ae-4beeb5ad559e.png)
+
+2.3.4 RESUMEN DE SECCIÓN
+Puntos Clave
+1. Una expresión es una combinación de valores (o variables, operadores, llamadas a funciones, aprenderás de ello pronto) las cuales son evaluadas y dan como resultado un valor, por ejemplo, 1 + 2.
+
+2. Los operadores son símbolos especiales o palabras clave que son capaces de operar en los valores y realizar operaciones matemáticas, por ejemplo, el * multiplica dos valores: x * y.
+
+3. Los operadores aritméticos en Python: + (suma), - (resta), * (multiplicación), / (división clásica: regresa un flotante siempre), % (módulo: divide el operando izquierdo entre el operando derecho y regresa el residuo de la operación, por ejemplo, 5 % 2 = 1), ** (exponenciación: el operando izquierdo se eleva a la potencia del operando derecho, por ejemplo, 2 ** 3 = 2 * 2 * 2 = 8), // (división entera: retorna el número resultado de la división, pero redondeado al número entero inferior más cercano, por ejemplo, 3 // 2.0 = 1.0)
+
+4. Un operador unario es un operador con solo un operando, por ejemplo, -1, o +3.
+
+5. Un operador binario es un operador con dos operandos, por ejemplo, 4 + 5, o 12 % 5.
+
+6. Algunos operadores actúan antes que otros, a esto se le llama - jerarquía de prioridades:
+
+El operador ** (exponencial) tiene la prioridad más alta;
+Posteriormente los operadores unarios + y - (nota: los operadores unarios a la derecha del operador exponencial enlazan con mayor fuerza, por ejemplo 4 ** -1 es igual a 0.25)
+Después *, /, //, y %,
+Finalmente, la prioridad más baja: los operadores binarios + y -.
+7. Las sub-expresiones dentro de paréntesis siempre se calculan primero, por ejemplo,  15 - 1 * ( 5 *( 1 + 2 ) ) = 0.
+
+8. Los operadores de exponenciación utilizan enlazado del lado derecho, por ejemplo, 2 ** 2 ** 3 = 256.
+
+## Variables cajas con forma de datos
+
+![image](https://user-images.githubusercontent.com/105448434/236677082-b19a9f76-d97f-4dc7-a486-85376cb79c59.png)
+
+**Nombres de variables**
+
+1.El nombre de la variable debe de estar compuesto por MAYÚSCULAS, minúsculas, dígitos, y el carácter _ (guion bajo)
+
+2.El nombre de la variable debe comenzar con una letra;
+
+3.El carácter guion bajo es considerado una letra;
+Las mayúsculas y minúsculas se tratan de forma distinta (un poco diferente que en el mundo real - Alicia y ALICIA son el mismo nombre, pero en Python son dos nombres de variable distintos, subsecuentemente, son dos variables diferentes);
+
+4.El nombre de las variables no pueden ser igual a alguna de las palabras reservadas de Python (las palabras clave - explicará más de esto pronto).
+
+**Buenas practicas para el nombramiento de variables**
+
+1. Nombre de las variables debe estar en minuscula
+2. Los nombres de funciones pueden empezar por fun, por ejemplo fun_suma
+3. Se puede utilizar letras mixtas
+
+![image](https://user-images.githubusercontent.com/105448434/236679317-a9e3522a-1602-4f98-abb3-2b6d823d7a27.png)
+
+** Cómo crear una variable**
+
+***Una variable se crea cuando se le asigna un valor. A diferencia de otros lenguajes de programación, no es necesario declararla.***
+
+var = 1
+print(var)
+
+***Nota para concatenar en una funcion print se utiliza el simbolo (+) sin embargo deben ser el mismo tipo de dato, si este no es el caso es mejor utilizar (,)***
+
+**OPERACIONES ABREVIADAS EN PYTHON**
+
+![image](https://user-images.githubusercontent.com/105448434/236678600-678e7cdc-c670-438d-9500-af253ff4c158.png)
+
+## Mutabilidad de las variables
+
+Nivel avanzado
+
+Las variables son nombres, no lugares. Detrás de esta frase se esconde la reflexión de que cuando asignamos un valor a una variable, lo que realmente está ocurriendo es que se hace apuntar el nombre de la variable a una zona de memoria en el que se representa el objeto (con su valor).
+
+![image](https://user-images.githubusercontent.com/105448434/236679752-5806e68b-e602-41cb-91fe-23a8ad35c2a4.png)
+
+***Los objetos mutables son aquellos que aunque cambien su valor no implica un cambio en la posición de memoria de la variable***
+
+![image](https://user-images.githubusercontent.com/105448434/236679841-0892db31-003e-434b-93bc-e4e0961a98e5.png)
+
+
+
+
 
 
 
