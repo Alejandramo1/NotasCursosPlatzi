@@ -290,7 +290,7 @@ Simplemente concatena (junta) dos cadenas en una. Por supuesto, puede ser utiliz
 2. int() Convierte una cadena a un entero
 3. float() Convierte una cadena a un flotante
 
-
+***NOTA GENERAL: Los parámetros de palabras clave (también llamados parámetros con nombre) son parámetros que tienen valores determinados por un nombre de palabra clave seguido de un signo de igual (=) y un valor predeterminado asignado a ese nombre de palabra clave. Un ejemplo de un argumento de palabra clave: def my_function(x=1):***
 
 
 
