@@ -264,7 +264,31 @@ Las variables son nombres, no lugares. Detrás de esta frase se esconde la refle
 
 ![image](https://user-images.githubusercontent.com/105448434/236679841-0892db31-003e-434b-93bc-e4e0961a98e5.png)
 
+## Interacción con el usuario
 
+**Función INPUT**
+
+La función input() es capaz de leer datos que fueron introducidos por el usuario y pasar esos datos al programa en ejecución.
+
+*** El resultado de la función input() es una cadena NO ES POSIBLE UTILIZARLO EN OPERACIONES MATEMATICAS A MENOS QUE SE TRANSFORME A OTRO TIPO DE DATOS.***
+
+![image](https://user-images.githubusercontent.com/105448434/236688009-274168c4-7600-40db-8dae-c3f392a79394.png)
+
+**Operadores cadena**
+
+1.**Concatenación**:El signo de + (más), al ser aplicado a dos cadenas, se convierte en un operador de concatenación:
+
+Simplemente concatena (junta) dos cadenas en una. Por supuesto, puede ser utilizado más de una vez en una misma expresión, y en tal contexto se comporta con enlazado del lado izquierdo.
+
+2. **Replicación**: El signo de * (asterisco), cuando es aplicado a una cadena y a un número (o a un número y cadena) se convierte en un operador de replicación:
+
+![image](https://user-images.githubusercontent.com/105448434/236688587-5f6f4c1f-ebb9-42e9-a1f1-c819a9fbf859.png)
+
+**Conversiones**
+
+1. str() Convierte un numero a una cadena
+2. int() Convierte una cadena a un entero
+3. float() Convierte una cadena a un flotante
 
 
 
