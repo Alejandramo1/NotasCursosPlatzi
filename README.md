@@ -1,6 +1,6 @@
 # Cursos desarrollados
 
-🚀 Lo que veras a continuación son mis notas sobre distintos cursos que he tomado en el área de negocios y emprendimiento 💚
+🚀 Lo que veras a continuación son mis notas sobre distintos cursos que he tomado en el área de tecnologia, en su mayoria gestión de proyectos y programación 💚
 
 Si ves algún punto de mejora o encontraste un error no dudes en hacer tu aporte 💚
 
