@@ -1,6 +1,7 @@
 
-## Introducción a la programación.
-**Lenguajes naturales vs lenguajes de programación **
+# Modulo1: Introducción a la programación.
+
+## Lenguajes naturales vs lenguajes de programación
  
  Las computadoras tienen su propio lenguaje llamado **Lenguaje Maquina**
  Un conjunto completo de comandos conocidos se llama lista de instrucciones, a veces abreviada IL (por sus siglas en inglés). 
@@ -284,13 +285,94 @@ Simplemente concatena (junta) dos cadenas en una. Por supuesto, puede ser utiliz
 
 ![image](https://user-images.githubusercontent.com/105448434/236688587-5f6f4c1f-ebb9-42e9-a1f1-c819a9fbf859.png)
 
-**Conversiones**
+## Conversión explícita entre tipo de datos
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/986fa9c2-e6bb-43ad-b1f9-735577a7e319)
 
 1. str() Convierte un numero a una cadena
 2. int() Convierte una cadena a un entero
 3. float() Convierte una cadena a un flotante
 
+## Errores de aproximación 
+
+Para redondear se utiliza la función **round()** como argumento se coloca la variable a aproximar y la cantidad de decimales, tal como se muestra a continuación.
+
+   >>> pi = 3.14159265359
+   >>> round(pi)
+   3
+   >>> round(pi, 1)
+   3.1
+   >>> round(pi, 2)
+   3.14
+
+
 ***NOTA GENERAL: Los parámetros de palabras clave (también llamados parámetros con nombre) son parámetros que tienen valores determinados por un nombre de palabra clave seguido de un signo de igual (=) y un valor predeterminado asignado a ese nombre de palabra clave. Un ejemplo de un argumento de palabra clave: def my_function(x=1):***
 
+
+# Modulo 3: Valores Booleanos, Ejecución condicional, Bucles, Listas y procesamiento, operaciones lógicas y de Bit a Bit.
+
+
+## Toma de decisiones en Python.
+
+### Comparación: operador de igualdad
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/e957f0c4-898e-46f8-8b56-13cb7e6da895)
+
+### Operadores
+
+#### Igualdad: El operador igual a (==)
+
+El operador == (igual a) compara los valores de dos operandos. Si son iguales, el resultado de la comparación es True. Si no son iguales, el resultado de la comparación es False.
+
+#### Desigualdad: el operador no es igual a (!=)
+
+El operador != (no es igual a) también compara los valores de dos operandos. Aquí está la diferencia: si son iguales, el resultado de la comparación es False. Si no son iguales, el resultado de la comparación es True.
+
+#### Operadores de comparación: mayor que
+
+También se puede hacer una pregunta de comparación usando el operador > (mayor que).
+
+Si deseas saber si hay más ovejas negras que blancas, puedes escribirlo de la siguiente manera:
+
+black_sheep > white_sheep  # Mayor que
+
+#### Operadores de comparación: mayor o igual que 
+
+El operador mayor que tiene otra variante especial, una variante no estricta, pero se denota de manera diferente que la notación aritmética clásica: >= (mayor o igual que).
+
+**Son operadores binarios con enlazado del lado izquierdo, y su prioridad es mayor que la mostrada por (==) y (!=).  **
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/7be26ea7-95ef-4396-8350-4172807471fb)
+
+
+#### Operadores de comparación: menor o igual que 
+
+Como probablemente ya hayas adivinado, los operadores utilizados en este caso son: El operador < (menor que) y su hermano no estricto: <= (menor o igual que).
+
+#### Tabla de prioridades en operadores
+
+**Cabe resaltar que los operadores unarios son aquellos que les dan signos positivos o negativos a los números**
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/fc854313-e3b9-4df9-b4ef-ff72f163313d)
+
+## Condiciones y ejecución condicional
+
+Esta sentencia condicional consta de los siguientes elementos, estrictamente necesarios en este orden:
+
+1. La palabra clave reservada if
+
+2. Uno o más espacios en blanco
+
+3. Una expresión (una pregunta o una respuesta) cuyo valor se interpretar únicamente en términos de True (cuando su valor no sea cero) y False (cuando sea igual a cero)
+
+4. Unos dos puntos seguidos de una nuevalínea;
+
+5. Una instrucción con sangría o un conjunto de instrucciones (se requiere absolutamente al menos una instrucción); la sangría se puede lograr de dos maneras: insertando un número particular de espacios (la recomendación es usar cuatro espacios de sangría), o usando el tabulador; nota: si hay mas de una instrucción en la parte con sangría, la sangría debe ser la misma en todas las líneas; aunque puede parecer lo mismo si se mezclan tabuladores con espacios, es importante que todas las sangrías sean exactamente iguales Python 3 no permite mezclar espacios y tabuladores para la sangría.
+
+**¿Cómo funciona esta sentencia?**
+
+1. Si la expresión true_or_not representa la verdad (es decir, su valor no es igual a cero), las sentencias con sangría se ejecutarán.
+
+2. Si la expresión true_or_not no representa la verdad (es decir, su valor es igual a cero), las sentencias con sangría se omitirán (ignorado), y la siguiente instrucción ejecutada será la siguiente al nivel de la sangría original.
 
 
