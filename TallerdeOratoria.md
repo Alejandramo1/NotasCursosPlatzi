@@ -115,3 +115,59 @@ Para concluir. Ej: “Quiero dejarte con esta idea…”, “Lo que deberías sa
 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/f76f184c-d5af-4e09-ac3a-289dba7f41e5)
 
+## Pasos antes de tener el SPITCH
+
+1. Revisar: Revisar secuencia, topicos, el correcto del fluje del mensaje es correcta 
+2. Practica: Con quien estas hablando, tienen conocimiento sobre el tema, meta . A que audiencia le vas a presentar, tienen conocimiento?
+
+de 3 a 4 veces si el publico no es muy exigente
+de 8 a 10 veces si el publico es exigente.
+
+3. Recuerda: Solo debes memorizar la secuencia de los temas que vas a cubrir es decir (reclamos, ideas de apoyo, conectores )
+
+## La importancia de la voz en el discurso.
+ 
+**NO HABLAR DEMASIADO RAPIDA**
+- volumen 
+- tempo (velocidad )
+- tono 
+- respiracion 
+
+### Tecnicas de usos de la voz.
+
+1. HABLAR LENTO: Permite a la gente reflexionar sobre lo que estamos diciendo 
+2. PAUSA: Puede ser una pausa enfatica que le da enfoque a una idea.
+3. Grabate 
+
+## Proyecto de oratoria.
+
+Modulo 2. Punto clave 
+Modulo 3. Como ilustrar nuestras ideas
+Modulo 4. Rendimiento en el discuros
+
+
+## Puntos para resolver en el proyecto.
+
+1. Define el tema 
+2. Como mantener la atencion 
+3. Atraer audiencia
+4. Que debemos incluir, determinar el alcance
+
+CUERPO DEL SPITCH 
+
+Argumentos: Declaracióm,idea
+tipo:
+-Casual
+-Anecdota
+-Estadistico
+-Experto
+
+Construir la estructura.
+
+Analogias: Compara dos o mas cosas y tiene el proposito de explicar 
+Metaforas ayuda mediente cosas o objetos a explicar lo que se quiere decir, de forma no literal 
+
+
+
+
+
