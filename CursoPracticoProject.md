@@ -36,6 +36,36 @@ Por ejemplo, en un proyecto de construcción de una casa, una cuenta de control 
 En resumen, las cuentas de control y las cuentas de planificación son elementos diferentes en la EDT que se utilizan para diferentes propósitos. Las cuentas de control son resúmenes de varias tareas relacionadas y se utilizan para monitorear el progreso del proyecto, mientras que las cuentas de planificación son tareas específicas del proyecto que tienen una duración definida, recursos asignados y entregables específicos.
 
 ***En conclusion: Exactamente, la cuenta de control es una cuenta superior en la estructura de desglose del trabajo (EDT) que agrupa y resume varias cuentas de planificación relacionadas para lograr un objetivo general del proyecto. Las cuentas de planificación debajo de la cuenta de control representan las tareas específicas que se deben completar para lograr ese objetivo general.***
+## Cronograma del proyecto
+
+## Cronograma
+
+Herramienta gráfica que presenta un detalle de las actividades que se deben desarrollar en los tiempos establecidos, al momento que se emprende un proyecto.
+
+Es posible que se realicen cambios a medida que se ejecuta.
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/a7a5993c-cbcf-4327-8068-ab94f8774267)
+
+## Ruta crtica.
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/8c449f9d-9a5d-4404-bb69-ad66826f9fe2)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/e2c9fc2b-fa09-4231-b348-607ad2141116)
+
+(ES) Early Start – The earliest time that an activity can start (Más temprano que puede comenzar)
+(EF) Early Finish – The earliest time that an activity can finish
+(LS) Late Start – The latest time that an activity can start
+(LF) Late Finish – The latest time that an activity can finish
+
+HOLGURA= LF-EF
+
+***lAS ACTIVIDADES CON HOLGURA 0 SON RUTAS CRITICAS*** 
+
+
+
+
+
+
+
 
 
 
