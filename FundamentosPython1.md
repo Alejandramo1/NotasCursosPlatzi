@@ -375,4 +375,70 @@ Esta sentencia condicional consta de los siguientes elementos, estrictamente nec
 
 2. Si la expresión true_or_not no representa la verdad (es decir, su valor es igual a cero), las sentencias con sangría se omitirán (ignorado), y la siguiente instrucción ejecutada será la siguiente al nivel de la sangría original.
 
+***Nota: Uso de comillas triples para imprimir en diferentes lineas. Puedes utilizar comillas triples para imprimir cadenas en varias líneas para facilitar la lectura del texto o crear un diseño especial basado en texto. Experimenta con ello.***
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/08ea1ec4-6ba5-4459-af33-35193234bf7c)
+
+## Bucles en tu código con for
+
+**Hay un bucle especial para este tipo de tareas, y se llama for**.
+
+**FOR: ES UN CONTADOR EN POCAS PALABRAS**
+
+Tiene las siguientes consideraciones:
+
+la palabra reservada for abre el bucle for; nota - No hay condición después de eso; no tienes que pensar en las condiciones, ya que se verifican internamente, sin ninguna intervención.
+cualquier variable después de la palabra reservada for es la variable de control del bucle; cuenta los giros del bucle y lo hace automáticamente.
+la palabra reservada in introduce un elemento de sintaxis que describe el rango de valores posibles que se asignan a la variable de control.
+la función range() (esta es una función muy especial) es responsable de generar todos los valores deseados de la variable de control; en nuestro ejemplo, **la función creará (incluso podemos decir que alimentará el bucle con) valores subsiguientes del siguiente conjunto: 0, 1, 2 .. 97, 98, 99; nota: en este caso, la función range() comienza su trabajo desde 0 y lo finaliza un paso (un número entero) antes del valor de su argumento.**
+
+***la sintaxis del bucle for exige al menos una instrucción dentro del cuerpo (por cierto - if, elif, else y while expresan lo mismo).***
+
+Ejemplo:
+
+  for i in range(10):
+     print("El valor de i es", i)
+     
+  El resultado sera:
+  
+    El valor de i es 0
+    El valor de i es 1
+    El valor de i es 2
+    El valor de i es 3
+    El valor de i es 4
+    El valor de i es 5
+    El valor de i es 6
+    El valor de i es 7
+    El valor de i es 8
+    El valor de i es 9
+  
+**Nota:Nota:El bucle se ha ejecutado diez veces (es el argumento de la función range()) El valor de la última variable de control es 9 (no 10, ya que comienza desde 0 , no desde 1)
+
+**la funcion range() solo acepta enteros**
+
+for i in range(2, 8):
+    print("El valor de i es", i)
+    
+    Empezara en 2 y terminara en 7
+
+## FOR con 3 argumentos
+
+La función range() también puede aceptar tres argumentos: Echa un vistazo al código del editor.
+
+for i in range(2, 8, 3):
+    print("El valor de i es", i)
+    
+**nota: El tercer argumento indica un incremento de 3**
+
+## Las sentencias BREAK y CONTINUE 
+
+Estas dos instrucciones son:
+
+- break - sale del bucle inmediatamente, e incondicionalmente termina la operación del bucle; el programa comienza a ejecutar la instrucción más cercana después del cuerpo del bucle.
+
+- continue - Salta la iteración actual y pasa a la siguiente a evaluar.
+
+**La diferencia entre continue y break es que continue salta la iteración actual y continúa con la siguiente, mientras que break finaliza el bucle por completo.**
+
+
 
