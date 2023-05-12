@@ -397,6 +397,7 @@ la función range() (esta es una función muy especial) es responsable de genera
 Ejemplo:
 
   for i in range(10):
+  
      print("El valor de i es", i)
      
   El resultado sera:
@@ -426,6 +427,7 @@ for i in range(2, 8):
 La función range() también puede aceptar tres argumentos: Echa un vistazo al código del editor.
 
 for i in range(2, 8, 3):
+
     print("El valor de i es", i)
     
 **nota: El tercer argumento indica un incremento de 3**
