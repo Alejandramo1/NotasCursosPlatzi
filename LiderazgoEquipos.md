@@ -45,6 +45,48 @@ OPINION DE MIS AMIGOS.
 ## Escucha activa 
 
 La escucha activa es la habilidad de escuchar no solo lo expresado directamente, sino también los sentimientos, ideas o pensamientos que subyacen a lo que está diciendo.
+# Escucha activa
+
+**Cuando escuchas activamente no existe multitasking**
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/415d70fd-5d62-41ec-a296-02f2822c224c)
+
+# Aprecia las cualidades de cada persona
+
+No es facil apreciar cualidades porque estamos entrenados a encontrar errores.
+
+**Tengo miedo a fallar, debo mejorarlo**
+
+## Como dar FEEDBACK?
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/3b839e91-faa0-494f-9b20-481ebfd25522)
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/cc9f5df4-e86d-4940-81d9-bd5608d106d0)
+
+## Agradece las criticas
+
+Así como das feedback debes recibir feedback
+
+## Crea una visión de éxito para tu equipo
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/1257311f-f2ad-4cac-b1ec-7133d9ecaa75)
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/3b34f0bd-8560-449d-95f9-5521c96cf02a)
+ 
+ ## COMPETIR Y COLABORAR NO ES COMPATIBLE.
+ 
+ Tengo que mejorar la competencia.
+ Se puede promover encargos conjuntos para crear sinergias en los equipos de trabajo.
+
+**VALORES COMPARTIDOS**
+
+Encontrar los valores que son comunes en los equipos.
+
+# TOMA DE DESICIONES VALIENTES Y PON LIMITES.
+
+Tengo miedo a equivocarme
+
+## Limites 
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/6e9aeb08-1df3-4073-ae1a-5e155c400b3f)
 
 **Como desarrollar la escucha activa:**
 
@@ -122,7 +164,8 @@ Comenzar hacia atras dejando margen entre fases.
 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/4cd9b0ba-b0a8-4aa1-80c9-440da2e38171)
 
-
+ # Micromanagers
+ 
 
 
 
