@@ -164,7 +164,13 @@ Comenzar hacia atras dejando margen entre fases.
 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/4cd9b0ba-b0a8-4aa1-80c9-440da2e38171)
 
- # Micromanagers
+# Los micromanagers
+
+Le planifican al equipo hasta el más minimo detalle, y luego siguen muy de cerca la ejecución.
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/3e3a7b87-5477-43a6-a3cc-7d35e32ef1f2)
+
+
  
 
 
