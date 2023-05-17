@@ -45,6 +45,39 @@ Puedo utilizar indices de cronograma y costos.
 **NOTA REVISAR CURSO DE PRESUPUESTO Y FLUJO DE CAJA**
 https://platzi.com/cursos/presupuesto/
 
+# Cultura de cierre
+
+Un proyecto terminado, será sometido a analisis, donde se evaluara fase a fase que se habia hecho bien y que se ha hecho mal y como iban a accionar para hacerlo mejor.
+
+## ANALIZAR LOS DATOS 
+
+1. Diagnosticar, recopilando datos y sacando datos, generar estrategias
+2. Optimizar los procesos
+3. Ejecutar
+4. Hacer seguimiento
+
+# Cierre de plazos y alcance 
+
+## Cierre de alcance:
+
+Recepción de la entrga y verificación de funcionalidad,
+**PRUEBAS DE ACEPTACIÓN**
+
+## Cierre del tiempo.
+
+Finalización de vigencia **NO MÁS DIAS DESTINADOS PARA EJECUTAR**
+
+# Comuniaciones finales con Stakeholders.
+
+Comunicar lo bueno, lo malo, los ressultados, agradeciendo a los stakeholders.
+
+Como comuunicar un cierrre:
+
+1. Transparencia: resultados y lecciones
+2. Mejora: Pasos siguiente
+
+
+
  
 
 
