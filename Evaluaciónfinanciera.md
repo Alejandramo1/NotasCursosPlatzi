@@ -99,12 +99,34 @@ FORMULA DE VALOR PRESENTE
 
 **Para que sea rentable y atractivo para el inversionista debe ser rentabilidad > tasa de oportunidad.**
 
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/c98e4121-1966-4e0a-bf5a-ef5eaa974af3)
 
 
+**LA TIR SIEMPRE DEBE SUPERAR LA TASA DE OPORTUNIDAD**
+
+Conclusiones TIR
+
+La tasa de interés que iguala a cero el VPN
+Es la tasa de interés a la cual rinde el dinero al permanecer invertido en un proyecto de inversión.
+La TIR es la tasa de interés pagada por un crédito, sobre el saldo insoluto.
+Si se trata de un período, la TIR es la tasa ganada sobre la inversión inicial. 
 
 
+# COSTO ANUAL UNIFORME EQUIVALENTE CAUE 
+
+Permite evaluar proyectos cuando no cuentas con ingresos (Reemplazar maquinas, o partes indispensables en el proceso)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/ffd090f0-a5dc-458b-a6f5-b9ed10a0a663)
 
 
+**CUANDO ES MAYOR QUE CERO, SE ACEPTA EL PROYECTO**
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/caef146a-1210-45f3-92de-15c54a7da0e8)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/9186700c-8950-4588-97e6-ad93d88890ea)
+
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/3b1caebf-6610-4de2-92f7-861165e379d3)
 
 
 
