@@ -33,6 +33,77 @@ Nota. Analizar la demanda insatisfecha. Los canales de comercialización. Aspect
 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/fbb93bc6-e2a2-4a0b-9ac7-20f5cc0b55a5)
 
+## Estudio organizacional 
+
+Define la forma de organización y la estructura que requiere el proyecto de forma funcional y presupuestal.
+
+¿Cual es el talento humano?
+
+### 3 NIVELES
+
+Nivel estrategico: Se encargan de las desiciones estrategicas todo alineado a los objetivos.
+
+Nivel tactico
+
+Nivel operacional
+
+¿Cada persona a quien le reporta? Establecer niveles jerarquicos
+
+## Estudio financiero .
+
+Aqui se conectan todos los estudios, evaluar si la empresa tiene la capacidad de financiar el proyecto.
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/6941e771-37d0-4789-b6d6-8b216d10e40a)
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/c42de5bd-11f1-4eb3-bdb4-b58455d16c81)
+
+# Inversión en terminos financieros.
+
+**UN GASTO NO ME GENERA RETORNO**
+ 
+ ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/07a55507-e913-4329-8a97-b9acfc8af06f)
+ 
+ ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/da80ca43-5230-40aa-9892-82388dd86ab8)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/06bdb9a7-a604-41cc-9184-940801167af0)
+
+# Tasa de descuento (COSTO DE OPORTUNIDAD)
+
+A que renuncio por tomar otra decision de inversión.
+
+Nota:tasa de descuento es el porcentaje mínimo el cual espera el inversionista sobre el cual el proyecto debe generar una utilidad o retorno.
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/034e966c-ed86-4e3d-b287-7a99eaac13a1)
+
+# Valor presente NETO
+
+Valor presente neto (VPN)
+
+Resultado de restarle al valor presente de los ingresos el valor presente de los egresos.
+
+VPN= VPI - VPE
+
+VPN: Valor presente neto
+VF: Valor futuro
+VP: Valor presente
+Nper: Plazo
+VPI: Valor presente de los ingresos
+VPE: Valor presente de los egresos
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/1155c3f0-3023-4724-b345-0bdf72c6eb45)
+
+FORMULA DE VALOR PRESENTE 
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/5e468b8d-4246-4c73-b344-f528efba5202)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/4efb950d-313a-473c-b8da-4369f64ed4d3)
+
+**Para que sea rentable y atractivo para el inversionista debe ser rentabilidad > tasa de oportunidad.**
+
+
+
+
+
+
 
 
 
