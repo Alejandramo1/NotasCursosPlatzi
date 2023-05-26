@@ -99,24 +99,69 @@ ETC= Lo que me falta por ejecutar
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/97c6d0da-9d82-4a1f-9cc5-e9ec6ab62c33)
 
 
+# Análisis Causa Raíz
 
-
-
-
-
-## Análisis Causa Raíz
-
+Por cada problema se busca las causas que lo producen
 Evita recurrecias de problema defecto 
+Se puede usar en todas las arias.
 
-## Histograma
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/7429542d-78f7-411f-b117-3e3bc8e9cc3c)
+
+Se suele agrupar en 4 categorias los tipos de problemas.
+
+1. Método (Procesos)
+3. Herramientas
+4. Mano de obra 
+5. Medio ambiente
+
+**Técnica de los por qué**
+
+En cada uno de las áreas
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/ce71912f-4e87-448b-84b1-c8d452ee8235)
+
+# Histograma
 
 Frecuencia de que un suceso ocurra 
 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/5ebeca69-cbcc-4909-99c4-443da177b005)
 
+# Diagrama de control
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/6229e770-29a6-4eb2-9775-6d8d34862c48)
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/68c38876-6efb-45a4-b96d-343f14764b94)
+
 ## Dispersión 
 
 Relacion posible entre dos variables
+Analiza la relación que existe entre dos variables, como es afectada una respecto a otra.
+
+Analizar la relación entre dos variables: como es afectada una respecto a la otra.
+
+Analizar si un cambio en la variable dependiente Y se afecta con un cambio observado en la variable independiente X.
+
+¿Cómo hacer un diagrama de dispersión
+
+  Seleccionar las 2 variables.
+  Definir el objetivo de relacionarlas.
+  Recopilar datos de las 2 variables.
+  Realizar tabla en hoja de cálculo con los datos de las dos variables.
+  Realizar gráfico y trazar línea de tendencia.
+  Ver coeficiente de correlación y fórmula.
+  Interpretar los resultados.
+  Línea de tendencia
+
+Negativa: si crece la variable X, y disminuye la variable Y o viceversa.
+Positiva: si crece la variable X y crece la variable Y.
+Sin correlación: hay una dispersión de datos.
+Coeficiente de correlación
+
+R°2= +1; variables están perfectamente alineados. Cuando X crece, Y crecerá en la misma proporción.
+R°2= -1; estaría perfectamente alineado, si X crece, Y decrece en la misma proporción.
+R°2= 0; no hay correlación.
+
+Ejemplo: R°2 = entre 0 y 1; variables tienden a agruparse, existe correlación entre éstas.
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/b934d89c-17ce-4e59-81e0-8d94b4a0edb6)
 
 ## Matriz probabilidad/Impacto de riesgos
 
