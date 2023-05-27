@@ -521,6 +521,11 @@ for i in range(6, 1, -2):
  
 # Listas
 
+## Ordenar listas de menor a mayor funcion sort()
+
+my_list.sort()
+
+
 3.4.12 RESUMEN DE SECCIÓN
 1. La lista es un tipo de dato en Python que se utiliza para almacenar múltiples objetos. Es una colección ordenada y mutable de elementos separados por comas entre corchetes, por ejemplo:
 
