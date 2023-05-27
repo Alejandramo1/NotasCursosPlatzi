@@ -556,6 +556,35 @@ Nuevamente, aprenderás más sobre esto - no te preocupes. Por el momento, inten
  
 7. Una invocación típica de función tiene el siguiente aspecto: result = function(arg), mientras que una invocación típica de un método se ve así: result = data.method(arg)
 
+# Operaciones con listas 
+
+1. Si tienes una lista list_1, y la siguiente asignación: list_2 = list_1 esto no hace una copia de la lista list_1, pero hace que las variables list_1 y list_2 apunten a la misma lista en la memoria. Por ejemplo:
+
+``vehicles_one = ['coche', 'bicicleta', 'motor']
+
+print(vehicles_one) # output: ['coche', 'bicicleta', 'motor']
+
+vehicles_two = vehicles_one
+
+del vehicles_one[0] # elimina 'coche'
+
+print(vehicles_two) # output: ['bicicleta', 'motor']``
+
+# REBANADAS
+2. Si deseas copiar una lista o parte de la lista, puedes hacerlo haciendo uso de rebanadas:
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/1184d3e6-9af1-49c2-ba6e-8a70b271156d)
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/b3ff17c9-7bba-41a2-a5c1-67df05a2f91b)
+
+# START:END EN LISTAS
+
+Los parámetros start y end son opcionales al partir en rebanadas una lista: list[start:end], por ejemplo:
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/9136bf73-a35c-496a-a08d-24621fe1eafd)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/9e8c128c-252e-4420-b90d-ee7fbb76a3e9)
+
+
+
 
 
 
