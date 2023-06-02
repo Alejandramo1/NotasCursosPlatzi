@@ -163,6 +163,21 @@ Se aplica para verificar true(1) o false(0)
 
 No son tan obvios como los anteriores y se emplean para representar un valor muy abstracto - la veracidad.
 
+## Metodo find 
+
+**Busqueda de subcadenas en python**
+
+Sintaxis 
+
+mensaje.find("Ernesto") Devuelve el indice de la primera letra de la subcadena
+
+## Extracción de cadenas
+
+Extraer de una cadena una subcadena a traves de un indice 
+
+[start:end]  el end es una posicion menos 1 
+
+
 ## RESUMEN SECCIÓN TIPO DE DATO 
 
 1. Los literales son notaciones para representar valores fijos en el código. Python tiene varios tipos de literales - es decir, un literal puede ser un número por ejemplo, 123), o una cadena (por ejemplo, "Yo soy un literal.").
