@@ -662,6 +662,30 @@ Profundicemos en la naturaleza multidimensional de las listas. Para encontrar cu
 Una vertical (número de fila).
 Una horizontal (número de columna).
 
+3.7.4 RESUMEN DE SECCIÓN
+1. La comprensión de listas te permite crear nuevas listas a partir de las existentes de una manera concisa y elegante. La sintaxis de una comprensión de lista es la siguiente:
+
+[expresión para el elemento en la lista si es condicional]
+ 
+El cual es un equivalente del siguiente código:
+
+for element in list:
+    if conditional:
+        expression
+ 
+Este es un ejemplo de una comprensión de lista - el código siguiente crea una lista de cinco elementos con los primeros cinco números naturales elevados a la potencia de 3:
+
+
+cubed = [num ** 3 for num in range(5)]
+print(cubed) # output: [0, 1, 8, 27, 64]
+ 
+
+2. Puedes usar listas anidadas en Python para crear matrices (es decir, listas bidimensionales). Por ejemplo:
+
+3. ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/73828338-ae10-4d47-9de4-fdac74bdf14b)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/f49bcfce-2e66-4f3b-8535-8217ba999492)
+
 
 
 
