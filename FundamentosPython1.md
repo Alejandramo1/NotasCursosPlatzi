@@ -603,7 +603,64 @@ Los parámetros start y end son opcionales al partir en rebanadas una lista: lis
 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/9e8c128c-252e-4420-b90d-ee7fbb76a3e9)
 
+#Crear listas que se rellenen solas
 
+En una sola linea puedo realizar 
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/eaef50de-23cc-4a5a-befc-d1a06437b524)
+
+# Arreglos de dos dimensiones en listas 
+
+Supongamos también que un símbolo predefinido denominado EMPTY designa un campo vacío en el tablero de ajedrez.
+
+Entonces, si queremos crear una lista de listas que representan todo el tablero de ajedrez, se puede hacer de la siguiente manera:
+
+# Ajedrez en listas
+
+3.7.2 Arreglos de dos dimensiones
+Supongamos también que un símbolo predefinido denominado EMPTY designa un campo vacío en el tablero de ajedrez.
+
+Entonces, si queremos crear una lista de listas que representan todo el tablero de ajedrez, se puede hacer de la siguiente manera:
+
+
+board = []
+ 
+for i in range(8):
+    row = [EMPTY for i in range(8)]
+    board.append(row)
+ 
+Nota:
+
+la parte interior del bucle crea una fila que consta de ocho elementos (cada uno de ellos es igual a EMPTY) y lo agrega a la lista del board;
+la parte exterior se repite ocho veces;
+en total, la lista board consta de 64 elementos (todos iguales a EMPTY).
+Este modelo imita perfectamente el tablero de ajedrez real, que en realidad es una lista de elementos de ocho elementos, todos ellos en filas individuales. Resumamos nuestras observaciones:
+
+los elementos de las filas son campos, ocho de ellos por fila;
+los elementos del tablero de ajedrez son filas, ocho de ellos por tablero de ajedrez.
+La variable board ahora es un arreglo bidimensional. También se le llama, por analogía a los términos algebraicos, una matriz.
+
+Como las listas de comprensión puede ser anidadas, podemos acortar la creación del tablero de la siguiente manera:
+
+
+board = [[EMPTY for i in range(8)] for j in range(8)]
+ 
+La parte interna crea una fila, y la parte externa crea una lista de filas.
+
+El acceso al campo seleccionado del tablero requiere dos índices - el primero selecciona la fila; el segundo - el número del campo dentro de la fila, el cual es un número de columna.
+
+Echa un vistazo al tablero de ajedrez. Cada campo contiene un par de índices que se deben dar para acceder al contenido del campo:
+
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/75217548-d6e4-489e-9867-1e75b30c7637)
+
+![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/399a992e-b9f0-47bb-af2f-6f27ea380605)
+
+
+# 3.7.3 Naturaleza multidimensional de las listas: aplicaciones avanzadas
+Profundicemos en la naturaleza multidimensional de las listas. Para encontrar cualquier elemento de una lista bidimensional, debes usar dos coordenadas:
+
+Una vertical (número de fila).
+Una horizontal (número de columna).
 
 
 
