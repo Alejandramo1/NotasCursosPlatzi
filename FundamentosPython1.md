@@ -608,7 +608,25 @@ Los parámetros start y end son opcionales al partir en rebanadas una lista: lis
 En una sola linea puedo realizar 
 ![image](https://github.com/Alejandramo1/NotasCursosTech/assets/105448434/eaef50de-23cc-4a5a-befc-d1a06437b524)
 
+# Funcion insert 
+
+La función insert() se utiliza en Python para insertar un elemento en una lista en una posición específica. Toma dos argumentos: el índice de la posición en la que se desea insertar el elemento y el valor del elemento que se va a insertar.
+
+Aquí tienes un ejemplo de cómo se utiliza la función insert():
+
+# Definir una lista inicial
+lista = [1, 2, 3, 4, 5]
+
+# Insertar el valor 10 en la posición 2
+lista.insert(2, 10)
+
+# Imprimir la lista actualizada
+print(lista)
 # Arreglos de dos dimensiones en listas 
+
+
+nums[x:y:z]
+
 
 Supongamos también que un símbolo predefinido denominado EMPTY designa un campo vacío en el tablero de ajedrez.
 
